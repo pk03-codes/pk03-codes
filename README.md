@@ -78,29 +78,8 @@
 </div>
 
 ---
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pk03-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk03-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pk03-codes&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pk03-codes&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 # 💡 Philosophy
 
