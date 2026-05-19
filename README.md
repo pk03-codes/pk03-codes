@@ -11,46 +11,17 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 ```python
-class PriyamKumarDe():
+# 👨‍💻 About Me
 
-    def __init__(self):
-        self.name = "Priyam Kumar De"
-        self.education = "B.Tech in Mathematics & Computing"
-        self.interests = [
-                            "Machine Learning",
-                            "Quantitative Finance",
-                            "AI Applications",
-                            "Data Science"
-                         ]
+🎓 B.Tech student in Mathematics & Computing with a strong interest in Machine Learning and Quantitative Finance.
 
-        self.languages = ["Python", "C++", "C", "SQL"]
+🤖 Currently learning core ML algorithms and exploring their real-world applications in the finance domain.
 
-        self.ml_stack = [
-                            "Pandas",
-                            "NumPy",
-                            "Scikit-Learn",
-                            "Matplotlib",
-                            "Seaborn"
-                        ]
+📊 Interested in combining mathematics, data, and AI to build intelligent financial systems and analytical solutions.
 
-        self.finance = [
-                            "CAPM",
-                            "Market Workflow"
-                       ]
+⚡ Passionate about problem solving, data-driven thinking, and continuously improving technical skills in ML, analytics, and software development.
 
-        self.tools = [
-                        "Git",
-                        "GitHub",
-                        "VS Code",
-                        "Jupyter"
-                     ]
-
-    def future_goal(self):
-        return "ML & Quant Engineer"
-```
-
----
-
+🚀 Aspiring to become an ML & Quant Engineer.
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Arsenal
 
 <div align="center">
