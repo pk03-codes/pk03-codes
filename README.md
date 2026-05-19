@@ -1,88 +1,125 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=PRIYAM+KUMAR+DE;B.Tech+Mathematics+%26+Computing+Student;ML+%7C+Quant+Finance+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Mathematics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=34&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=PRIYAM+KUMAR+DE;Machine+Learning+%7C+Quant+Finance;B.Tech+Mathematics+%26+Computing;Building+AI+Driven+Solutions" />
 
----
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257464-16a8c4e2-6d58-4f7f-bb7f-0c2a0d7c4e0a.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=ML%20%20×%20%20QUANT%20%20×%20%20AI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+---
 
-```python
 # 👨‍💻 About Me
 
-🎓 B.Tech student in Mathematics & Computing with a strong interest in Machine Learning and Quantitative Finance.
+🎓 B.Tech student in **Mathematics & Computing** with a strong interest in **Machine Learning** and **Quantitative Finance**.
 
 🤖 Currently learning core ML algorithms and exploring their real-world applications in the finance domain.
 
-📊 Interested in combining mathematics, data, and AI to build intelligent financial systems and analytical solutions.
+📊 Passionate about combining **mathematics, data, and AI** to build intelligent financial systems and analytical solutions.
 
-⚡ Passionate about problem solving, data-driven thinking, and continuously improving technical skills in ML, analytics, and software development.
+⚡ Interested in problem solving, data-driven thinking, and continuously improving technical skills in ML, analytics, and software development.
 
-🚀 Aspiring to become an ML & Quant Engineer.
-
-
-
-</div>
+🚀 Aspiring to become an **ML & Quant Engineer**.
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ1bTZjM3F4c2dzNzExdDBxbzF6aXdzMG91c2FybTZ6Zm1iZ2YxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378khQxt68syiWJy/giphy.gif" width="35"> Quant × AI Vision
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+%2B+Mathematics+%2B+Finance;Building+Future+AI+Driven+Financial+Systems;Learning+Today+to+Engineer+Tomorrow" />
+### Languages
 
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pk03-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk03-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pk03-codes&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pk03-codes&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"> Philosophy
-
-<div align="center">
-
-```text
-"Mathematics gives the logic,
-Machine Learning gives the intelligence,
-Finance gives the real-world impact."
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pk03-codes&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+### Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/ScikitLearn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=plotly&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+</p>
+
+<br>
+
+### Finance
+
+<p>
+<img src="https://img.shields.io/badge/CAPM-1E293B?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Market%20Workflow-1E293B?style=for-the-badge&logo=chartdotjs&logoColor=38BDF8"/>
+</p>
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 📈 Current Focus
+
+```diff
++ Machine Learning Algorithms
++ AI Applications in Finance
++ Quantitative Analysis
++ Data Visualization
++ Financial Analytics
++ Problem Solving & DSA
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pk03-codes&show_icons=true&theme=transparent&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&border_color=1E293B"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk03-codes&layout=compact&theme=transparent&title_color=38BDF8&text_color=FFFFFF&border_color=1E293B"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pk03-codes&theme=dark&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border=1E293B"/>
+
+</div>
+
+---
+
+# 📉 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pk03-codes&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+<div align="center">
+
+### *"Mathematics builds logic.*  
+### *Machine Learning builds intelligence.*  
+### *Finance creates real-world impact."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pk03-codes&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
 
 </div>
