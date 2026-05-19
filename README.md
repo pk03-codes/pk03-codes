@@ -22,45 +22,8 @@
 ⚡ Passionate about problem solving, data-driven thinking, and continuously improving technical skills in ML, analytics, and software development.
 
 🚀 Aspiring to become an ML & Quant Engineer.
-# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Arsenal
 
-<div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
-
-### Machine Learning & Data Science
-
-<img src="https://skillicons.dev/icons?i=py" />
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-111111?style=for-the-badge&logo=python&logoColor=cyan"/>
-</p>
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"> Current Focus
-
-<div align="center">
-
-```diff
-+ Exploring Machine Learning Algorithms
-+ Integrating ML with Quantitative Finance
-+ Building Data-Driven Intelligent Systems
-+ Learning Financial Market Analysis
-+ Strengthening DSA & Problem Solving
-```
 
 </div>
 
