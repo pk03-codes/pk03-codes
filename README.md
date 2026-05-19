@@ -63,44 +63,44 @@
 
 ---
 
-# 📈 Current Focus
+# 🚀 Current Focus
 
-```diff
-+ Machine Learning Algorithms
-+ AI Applications in Finance
-+ Quantitative Analysis
-+ Data Visualization
-+ Financial Analytics
-+ Problem Solving & DSA
-```
+<div align="center">
+
+| Domain | Focus Area |
+|---|---|
+| 🤖 Machine Learning | Core ML Algorithms & Model Building |
+| 📈 Quant Finance | Financial Data Analysis & Market Concepts |
+| 🧠 AI Applications | Real-World Intelligent Systems |
+| 📊 Data Science | Visualization & Analytical Thinking |
+| ⚡ Problem Solving | DSA & Logical Reasoning |
+
+</div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pk03-codes&show_icons=true&theme=transparent&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&border_color=1E293B"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pk03-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk03-codes&layout=compact&theme=transparent&title_color=38BDF8&text_color=FFFFFF&border_color=1E293B"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk03-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pk03-codes&theme=dark&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border=1E293B"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pk03-codes&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📉 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pk03-codes&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pk03-codes&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
 
 # 💡 Philosophy
 
